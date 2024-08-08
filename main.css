@@ -1,0 +1,21 @@
+/* main.css */
+
+/* Estilo para a seção de entretenimento */
+#entertainment {
+    background-color: #FFC080;
+    padding: 20px;
+  }
+  
+  #entertainment h2 {
+    color: #333;
+  }
+  
+  /* Estilo para a seção de tecnologia */
+  #technology {
+    background-color: #87CEEB;
+    padding: 20px;
+  }
+  
+  #technology h2 {
+    color: #333;
+  }
